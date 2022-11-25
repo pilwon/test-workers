@@ -1,0 +1,8 @@
+name = "test-workers"
+main = "src/index.ts"
+compatibility_date = "2022-11-11"
+
+[[r2_buckets]]
+binding = 'R2_BUCKET'
+preview_bucket_name = 'test-workers'
+bucket_name = 'test-workers'
